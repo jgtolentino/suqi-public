@@ -1,0 +1,72 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#000000"/>
+  
+  <!-- Yellow accent bar -->
+  <rect x="0" y="0" width="1200" height="8" fill="#FFD700"/>
+  <rect x="0" y="622" width="1200" height="8" fill="#FFD700"/>
+  
+  <!-- TBWA Logo area -->
+  <rect x="50" y="50" width="120" height="40" fill="#FFD700"/>
+  <text x="110" y="75" text-anchor="middle" fill="#000000" font-family="Arial, sans-serif" font-size="18" font-weight="bold">TBWA</text>
+  
+  <!-- Main title -->
+  <text x="60" y="200" fill="#FFD700" font-family="Arial, sans-serif" font-size="64" font-weight="bold">Suqi Analytics</text>
+  
+  <!-- Subtitle -->
+  <text x="60" y="250" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="32" font-weight="300">Retail Intelligence Platform</text>
+  
+  <!-- Features list -->
+  <text x="60" y="320" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24">✓ Interactive Product Treemap</text>
+  <text x="60" y="360" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24">✓ AI-Powered Analytics</text>
+  <text x="60" y="400" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24">✓ Real-time Insights</text>
+  <text x="60" y="440" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="24">✓ Philippine Market Data</text>
+  
+  <!-- Mock dashboard visualization -->
+  <g transform="translate(650, 120)">
+    <!-- Dashboard frame -->
+    <rect x="0" y="0" width="500" height="380" rx="12" fill="#1a1a1a" stroke="#FFD700" stroke-width="2"/>
+    
+    <!-- Header -->
+    <rect x="20" y="20" width="460" height="40" rx="8" fill="#FFD700"/>
+    <text x="250" y="45" text-anchor="middle" fill="#000000" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Dashboard Preview</text>
+    
+    <!-- Treemap visualization -->
+    <rect x="30" y="80" width="180" height="120" fill="#FFD700" opacity="0.8"/>
+    <text x="120" y="130" text-anchor="middle" fill="#000000" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Beverages</text>
+    <text x="120" y="150" text-anchor="middle" fill="#000000" font-family="Arial, sans-serif" font-size="10">35%</text>
+    
+    <rect x="220" y="80" width="120" height="120" fill="#FF6B35" opacity="0.8"/>
+    <text x="280" y="130" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Snacks</text>
+    <text x="280" y="150" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="10">25%</text>
+    
+    <rect x="350" y="80" width="120" height="120" fill="#4A90E2" opacity="0.8"/>
+    <text x="410" y="130" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="11" font-weight="bold">Personal Care</text>
+    <text x="410" y="150" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="10">20%</text>
+    
+    <!-- Charts -->
+    <rect x="30" y="220" width="200" height="120" rx="8" fill="#2a2a2a"/>
+    <text x="130" y="240" text-anchor="middle" fill="#FFD700" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Transaction Trends</text>
+    
+    <!-- Mock chart lines -->
+    <polyline points="40,320 70,300 100,280 130,260 160,250 190,240 220,230" stroke="#FFD700" stroke-width="3" fill="none"/>
+    <polyline points="40,310 70,305 100,295 130,285 160,275 190,270 220,265" stroke="#4A90E2" stroke-width="2" fill="none"/>
+    
+    <rect x="270" y="220" width="200" height="120" rx="8" fill="#2a2a2a"/>
+    <text x="370" y="240" text-anchor="middle" fill="#FFD700" font-family="Arial, sans-serif" font-size="12" font-weight="bold">Ask Suqi AI</text>
+    <text x="370" y="260" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="10">AI-powered insights</text>
+    
+    <!-- Chat bubbles -->
+    <rect x="280" y="270" width="120" height="20" rx="10" fill="#FFD700"/>
+    <text x="340" y="285" text-anchor="middle" fill="#000000" font-family="Arial, sans-serif" font-size="8">Market analysis ready</text>
+    
+    <rect x="320" y="300" width="140" height="20" rx="10" fill="#333333"/>
+    <text x="390" y="315" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="8">What's trending in Q3?</text>
+  </g>
+  
+  <!-- Bottom tagline -->
+  <text x="60" y="550" fill="#FFD700" font-family="Arial, sans-serif" font-size="20" font-style="italic">Powered by Advanced Analytics & AI</text>
+  
+  <!-- URL -->
+  <text x="1140" y="610" text-anchor="end" fill="#888888" font-family="Arial, sans-serif" font-size="16">jgtolentino.github.io/suqi-public</text>
+</svg>
